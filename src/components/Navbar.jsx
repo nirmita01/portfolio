@@ -6,7 +6,7 @@ export default function Navbar() {
 const { theme, toggleTheme } = useTheme();
 
   return (
-    <nav className="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 shadow p-4">
+    <nav className="bg-green-200 dark:bg-gray-900 text-gray-900 dark:text-gray-100 shadow p-4">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Brand Logo */}
      
